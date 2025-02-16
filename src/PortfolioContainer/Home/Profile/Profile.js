@@ -1,5 +1,5 @@
 import React from 'react'
-import Typical from 'react-typical'
+import Typewriter from 'react-typewriter'
 import './Profile.css'
 import ScrollService from '../../../utilities/ScrollService'
 
@@ -40,7 +40,7 @@ const Profile = () => {
                         {" "}
                         <h1>
 
-<Typical loop={Infinity}
+<Typewriter loop={Infinity}
 steps={[
     "Bani Banerjee 🔴",
     1000,
