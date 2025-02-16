@@ -1,5 +1,5 @@
 import React from 'react'
-import Typewriter from 'react-typewriter'
+import { Typewriter } from 'react-typewriter';
 import './Profile.css'
 import ScrollService from '../../../utilities/ScrollService'
 
